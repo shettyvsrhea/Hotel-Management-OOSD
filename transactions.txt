@@ -1,0 +1,8 @@
+Room 112  |  Guest: xyz  |  checked out. Nights: 13
+Room 120  |  Guest: x  |  checked out. Nights: 7
+Room 230  |  Guest: x  |  checked out. Nights: 1
+Room 120  |  Guest: e  |  checked out. Nights: 1
+Room 230  |  Guest: x  |  checked out. Nights: 1
+Room 230  |  Guest: x  |  checked out. Nights: 7
+Room 120  |  Guest: x  |  checked out. Nights: 7
+Room 230  |  Guest: x  |  checked out. Nights: 8
